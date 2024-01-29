@@ -8,19 +8,19 @@ The summary from 5 datasets, there were two datasets about meditation app review
 
 To response to the objective to this project:
 
-1)Measuring attitude - how much positive and negative emotional language is in reviews?
-
+- 1)Measuring attitude - how much positive and negative emotional language is in reviews?
 Users of the meditation app respond in terms of position, according to the sentiment analysis.
-2)Politeness - utilizing hedging phrases for response
 
+- 2)Politeness - utilizing hedging phrases for response
 For both app platforms, the most frequent, polite terms are "love," "like," and "app."
-3)Is the user really enjoying and find it useful when using the mediation application?
 
+- 3)Is the user really enjoying and find it useful when using the mediation application?
 The 5 most common word for Google Play Store Meditation App Reviews are: [('app', 483), ('love', 132), ('good', 117), ('really', 113), ('This', 99)],
 The 5 most common word for App Store Meditation App Reviews are: [('app', 2177), ('sleep', 878), ('Calm', 701), ('like', 579), ('stories', 555)]
-According to the frequency distributions, the user enjoys using the meditation app.
-4)How meditation effect human behaviour in work?
 
+According to the frequency distributions, the user enjoys using the meditation app.
+
+- 4)How meditation effect human behaviour in work?
 People who meditate have favorable effects in a variety of areas. Gamma brainwave amplitude, for instance, will rise while you meditate.
 
 #### Google Play Store Meditation App Reviews
