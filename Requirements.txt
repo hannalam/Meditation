@@ -1,0 +1,63 @@
+Title: Exploring the feedback from meditation app user after the meditation practice
+
+Jupyter Notebook file: Meditation.ipynb
+Additional data files: JP1_Dataset.xlsx
+		       JP2_Dataset.xlsx
+		       Gamma_med.csv
+		       appstore_calm_us.csv
+		       playmeditopia_us.csv
+		       Calm and Meditopia.webp
+		       Meditation.pdf (For safty reason if the ipynb can't be opened)
+		       Meditation.html (For safty reason if the ipynb can't be opened)
+
+Dependent libraries:
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+from nltk.tokenize import RegexpTokenizer
+import nltk
+from nltk.corpus import stopwords
+from nltk.probability import FreqDist
+from nltk.stem import WordNetLemmatizer
+from nltk.tokenize import word_tokenize
+from nltk.probability import FreqDist
+import matplotlib.pyplot as plt
+from wordcloud import WordCloud
+from nltk.sentiment import SentimentIntensityAnalyzer
+
+
+The table of the project
+
+1 Aims, objectives and background	
+1.1 Introduction	
+1.2 Objectives	
+1.3 Aims	
+2 Data	
+2.1 Data source	
+2.2 Choice of Datasets	
+2.3 Ethical considerations	
+2.4 Import libraries and modules	
+2.5 Import URLs	
+3 Data cleaning and processing	
+3.1 Tokenization	
+3.2 Removing stop words	
+3.2.1 Lambda	
+3.2.2 Tokenization	
+3.2.3 FreqDist	
+3.2.4 Lemmatization	
+4 Generating features	
+4.1 Frequency distributions	
+4.2 Seaborn	
+4.3 Sentiment Intensity Analysis	
+5 Exploratory data analysis	
+5.1 Analyze data from sentiment	
+5.2 Visualize data from sentiment	
+5.3 Wordclouds	
+5.4 Gamma Brainwave Amplitude in Seaborn	
+5.5 Meditation Practice and Job Performance Study 1	
+5.6 Meditation Practice and Job Performance Study 2	
+6 Summary	
+7 References and Resources	
+7.1 References	
+7.2 Resources used	
